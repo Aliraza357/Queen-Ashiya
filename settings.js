@@ -2,7 +2,7 @@
 
 //
 
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              ALI-KING 𝓫𝔂 official
 
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 
@@ -41,27 +41,27 @@ global.APIKeys = {
 
 global.owner = ['Didula Rashmika']
 
-global.premium = ['💗Queen Ashiya🧚']
+global.premium = ['★彡[ᴀʟɪ-ᴋɪɴɢ]彡★']
 
-global.ownernomer = '94741671668'
+global.ownernomer = '923252752761'
 
-global.ownername = 'Didula Rashmika'
+global.ownername = '𓂀 𝔸𝕃𝕀-𝕂𝕀ℕ𝔾 𓂀'
 
-global.botname = '💗Queen Ashiya🧚'
+global.botname = '▄︻デA̷L̷I̷-̷K̷I̷N̷G̷══━一'
 
-global.footer = '©💗Queen Ashiya🧚.'
+global.footer = '█▓▒­░⡷⠂ДLI-ҜIИG⠐⢾░▒▓█.'
 
-global.ig = 'https://github.com/BlackPant'
+global.ig = 'https://chat.whatsapp.com/BuxgHj4XgBX1SmA2hSH9zt'
 
 global.region = 'Sri Lanka, North Central Peovince, Anuradhapura'
 
-global.sc = 'https://github.com/BlackPanther-svg/Queen-Ashiya'
+global.sc = 'https://chat.whatsapp.com/BuxgHj4XgBX1SmA2hSH9zt'
 
-global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
+global.myweb = 'https://chat.whatsapp.com/BuxgHj4XgBX1SmA2hSH9zt'
 
-global.packname = '💗Queen Ashiya🧚'
+global.packname = 'ΔŁƗ-ҜƗŇǤ'
 
-global.author = '💗Queen Ashiya🧚'
+global.author = 'A̷L̷I̷-̷K̷I̷N̷G̷'
 
 global.sessionName = 'session'
 
